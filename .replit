@@ -1,2 +1,2 @@
 language = "python3"
-run = "python"
+run = "python3 3.无重复字符的最长子串.py"
