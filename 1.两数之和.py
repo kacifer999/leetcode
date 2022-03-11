@@ -8,5 +8,6 @@ class Solution:
             else:
                 hash_map[value] = index
 
+
 #######
 print(Solution().twoSum([2,7,11,15],9))
